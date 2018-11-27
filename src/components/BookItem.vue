@@ -4,7 +4,7 @@
 
 <script>
 export default {
-    name: "BookItem.vue",
+    name: 'BookItem',
     props: ['book']
 }
 </script>
